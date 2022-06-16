@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides a description of the seminar along with
+  information on meeting times, requirements, and the schedule of lecture topics and
+  assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

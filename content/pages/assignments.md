@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides information on the two writing assignments: a
+  review of a book from a supplied list, and a research paper.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
