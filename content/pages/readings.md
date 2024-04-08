@@ -55,7 +55,7 @@ McMillan, Priscilla. _The Ruin of J. Robert Oppenheimer and the Birth of the Mod
 
 Holloway, David. _Stalin and the Bomb: The Soviet Union and Atomic Energy, 1939-1956_. New Haven, CT: Yale University Press, 1994. ISBN: 9780300060560.
 
-United States Atomic Energy Commission. [General Advisory Committee Reports on Building the H-Bomb](http://www.atomicarchive.com/Docs/Hydrogen/GACReport.shtml), October 30, 1949.
+United States Atomic Energy Commission. {{% resource_link "cc05c92f-a1b3-4d0a-ae42-52f94c03d33b" "General Advisory Committee Reports on Building the H-Bomb" %}}, October 30, 1949.
 
 
 {{< tdclose >}}
@@ -73,13 +73,13 @@ McCarthyism and espionage
 
 Wang, Jessica. _American Science in an Age of Anxiety_. Durham, NC: University of North Carolina Press, 1998. ISBN: 9780807824474.
 
-Kaiser, David. "[The Atomic Secret in Red Hands? American Suspicions of Theoretical Physicists During the Early Cold War](https://web.mit.edu/dikaiser/www/Kaiser.RedTheorists.pdf)." _Representations_ 90 (2005): 28-60.
+Kaiser, David. "{{% resource_link "2d3accbf-f39e-4fc5-80ff-ac750eb861ef" "The Atomic Secret in Red Hands? American Suspicions of Theoretical Physicists During the Early Cold War" %}}." _Representations_ 90 (2005): 28-60.
 
-Wellerstein, Alex. "[Patenting the Bomb: Nuclear Weapons, Intellectual Property, and Technological Control](http://www.ncbi.nlm.nih.gov/pubmed/18505023)." _Isis_ 99 (2008): 57-87.
+Wellerstein, Alex. "{{% resource_link "287a3338-4f58-47cc-8cb4-830b66aebc5a" "Patenting the Bomb: Nuclear Weapons, Intellectual Property, and Technological Control" %}}." _Isis_ 99 (2008): 57-87.
 
 Hoover, J. Edgar. "The Crime of the Century: The Case of the A-bomb Spies." _Reader's Digest_ 58 (May 1951): 149-68.
 
-Macrakis, Kristie. _Seduced by Secrets: Inside the Stasi's Spy-Tech World_. New York, NY: Cambridge University Press, 2008. ISBN: 9780521887472. \[[Preview](http://books.google.com/books?id=LLZJk4FrqwwC&pg=PAfrontcover) in Google Books\]
+Macrakis, Kristie. _Seduced by Secrets: Inside the Stasi's Spy-Tech World_. New York, NY: Cambridge University Press, 2008. ISBN: 9780521887472. \[{{% resource_link "b68781a5-13d4-4779-99fb-c3e5ff810e53" "Preview" %}} in Google Books\]
 
 
 {{< tdclose >}}
@@ -95,7 +95,7 @@ Macrakis, Kristie. _Seduced by Secrets: Inside the Stasi's Spy-Tech World_. New 
 {{< tdopen >}}
 
 
-Ghamari-Tabrizi, Sharon. _The Worlds of Herman Kahn: The Intuitive Science of Thermonuclear War_. Cambridge, MA: Harvard University Press, 2005. ISBN: 9780674017146. \[[Preview](http://books.google.com/books?id=Ri5ho6_xorAC&pg=PAfrontcover) in Google Books\]
+Ghamari-Tabrizi, Sharon. _The Worlds of Herman Kahn: The Intuitive Science of Thermonuclear War_. Cambridge, MA: Harvard University Press, 2005. ISBN: 9780674017146. \[{{% resource_link "7a82acb5-3349-4d68-9998-fcddff8065cd" "Preview" %}} in Google Books\]
 
 Kirsch, Scott. _Proving Grounds: Project Plowshare and the Unrealized Dream of Nuclear Earthmoving_. New Brunswick, NJ: Rutgers University Press, 2005. ISBN: 9780813536668.
 
@@ -119,11 +119,11 @@ Big science, big classrooms
 
 Forman, Paul. "Behind Quantum Electronics: National Security as Basis for Physical Research in the United States, 1940-1960." _Historial Studies in the Physical and Biological Sciences_ 18 (1987): 149-229.
 
-Lowen, Rebecca. _Creating the Cold War University: The Transformation of Stanford_. Berkeley, CA: University of California Press, 1997. ISBN: 9780520205413. \[[Preview](http://books.google.com/books?id=e0bVC2FEoSwC&pg=PAfrontcover) in Google Books\]
+Lowen, Rebecca. _Creating the Cold War University: The Transformation of Stanford_. Berkeley, CA: University of California Press, 1997. ISBN: 9780520205413. \[{{% resource_link "9934e820-17c9-4f9e-a968-630ba3e31811" "Preview" %}} in Google Books\]
 
-Rudolph, John. _Scientists in the Classroom: The Cold War Reconstruction of American Science_. New York, NY: Palgrave Macmillan, 2002. ISBN: 9780312295011. \[[Preview](http://books.google.com/books?id=SLCADAAAQBAJ&pg=PAfrontcover) in Google Books\]
+Rudolph, John. _Scientists in the Classroom: The Cold War Reconstruction of American Science_. New York, NY: Palgrave Macmillan, 2002. ISBN: 9780312295011. \[{{% resource_link "b099e997-a32a-4c40-bff7-53996344c44b" "Preview" %}} in Google Books\]
 
-Kaiser, David. [_American Physics and the Cold War Bubble_](http://web.mit.edu/dikaiser/www/CWB.html). Chicago, IL: University of Chicago Press, in preparation.
+Kaiser, David. {{% resource_link "91905654-d529-43a3-87ef-ea7f21120a4e" "_American Physics and the Cold War Bubble_" %}}. Chicago, IL: University of Chicago Press, in preparation.
 
 Engerman, David. "Rethinking Cold War Universities: Some Recent Histories." _Journal of Cold War Studies_ 5 (2003): 80-95.
 
@@ -141,9 +141,9 @@ Exports and imports
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572255) Gerovitch, Slava. [_From Newspeak to Cyberspeak: A History of Soviet Cybernetics_](https://mitpress.mit.edu/9780262572255). Cambridge, MA: MIT Press, 2004. ISBN: 9780262572255.
+{{% resource_link "05c36561-df46-4ef0-bb43-f8e7d6dc253f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gerovitch, Slava. {{% resource_link "05c36561-df46-4ef0-bb43-f8e7d6dc253f" "_From Newspeak to Cyberspeak: A History of Soviet Cybernetics_" %}}. Cambridge, MA: MIT Press, 2004. ISBN: 9780262572255.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262612258) Krige, John. [_American Hegemony and the Postwar Reconstruction of Science in Europe_](https://mitpress.mit.edu/9780262612258). Cambridge, MA: MIT Press, 2008. ISBN: 9780262612258.
+{{% resource_link "de91dd19-f997-42ad-97d5-bfd54e7984e3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krige, John. {{% resource_link "de91dd19-f997-42ad-97d5-bfd54e7984e3" "_American Hegemony and the Postwar Reconstruction of Science in Europe_" %}}. Cambridge, MA: MIT Press, 2008. ISBN: 9780262612258.
 
 Krige, John, and Kai-Henrik Barth, eds. In _Osiris, Volume 21: Global Power Knowledge: Science and Technology in International Affairs_. Chicago, IL: University of Chicago Press, 2006. ISBN: 9780226454047.
 
@@ -165,11 +165,11 @@ Talking back, moving on
 {{< tdopen >}}
 
 
-Moore, Kelly. _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945-1975_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691113524. \[[Sample from publisher: Chapter 1](http://assets.press.princeton.edu/chapters/s8545.pdf)\]
+Moore, Kelly. _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945-1975_. Princeton, NJ: Princeton University Press, 2008. ISBN: 9780691113524. \[{{% resource_link "1839f24f-27b4-4022-8745-50cc40b13228" "Sample from publisher: Chapter 1" %}}\]
 
-Vettel, Eric. _Biotech: The Countercultural Origins of an Industry_. Philadelphia, PA: University of Pennsylvania Press, 2008. ISBN: 9780812220513. \[[Preview](http://books.google.com/books?id=VXBaDF6-sfQC&pg=PAfrontcover) in Google Books\]
+Vettel, Eric. _Biotech: The Countercultural Origins of an Industry_. Philadelphia, PA: University of Pennsylvania Press, 2008. ISBN: 9780812220513. \[{{% resource_link "d0fdf72b-3d59-4fe3-95a8-43be7cfcabf2" "Preview" %}} in Google Books\]
 
-Turner, Fred. _From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism_. Chicago, IL: University of Chicago Press, 2008. ISBN: 9780226817422. \[[Preview](http://books.google.com/books?id=2SNFpgX_WigC&pg=PAfrontcover) in Google Books\]
+Turner, Fred. _From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism_. Chicago, IL: University of Chicago Press, 2008. ISBN: 9780226817422. \[{{% resource_link "8cd9c10d-8f81-4ed1-901b-5f1a462ff7be" "Preview" %}} in Google Books\]
 
 Kaiser, David. "How the Hippies Saved Physics." (paper in preparation).
 
