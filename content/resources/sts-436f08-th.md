@@ -24,8 +24,7 @@ image_metadata:
     the summers at Oak Ridge National Laboratory, where her father was a physical
     chemist. By 1961, she had married a chemical engineer, moved to California, and
     was working as a spectroscopist for Lockheed aircraft. (Image courtesy of the
-    {{% resource_link "4cc08de3-d91c-410c-8859-b781f2a0a4a6" "Smithsonian Institution"
-    %}}.)'
+    [Smithsonian Institution](http://www.flickr.com/photos/smithsonian/3378193539/).)'
   credit: ''
   image-alt: Black and white photo of a young woman working in a chemistry lab.
 learning_resource_types: []
