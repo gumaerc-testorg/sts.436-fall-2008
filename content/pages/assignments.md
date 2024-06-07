@@ -18,17 +18,18 @@ For the book review, you should select one of the following books and write a br
 
 ### Books Available for Review
 
-Robin, Ron. _The Making of the Cold War Enemy: Culture and Politics in the Military-Intellectual Complex_. Princeton, NJ: Princeton University Press, 2001. ISBN: 9780691011714. \[{{% resource_link "109ba2ce-d8e4-4083-9fd9-466ff829bd90" "Preview" %}} in Google Books\]
+Robin, Ron. _The Making of the Cold War Enemy: Culture and Politics in the Military-Intellectual Complex_. Princeton, NJ: Princeton University Press, 2001. ISBN: 9780691011714. \[[Preview](http://books.google.com/books?id=7D3ECZR4vfEC&pg=Pafrontcover) in Google Books\]
 
-Mirowski, Philip. _Machine Dreams: Economics Becomes a Cyborg Science_. New York, NY: Cambridge University Press, 2008. ISBN: 9780521775267. \[{{% resource_link "7c404af9-1d7f-46d1-a6f2-aa34fc798346" "Preview" %}} in Google Books\]
+Mirowski, Philip. _Machine Dreams: Economics Becomes a Cyborg Science_. New York, NY: Cambridge University Press, 2008. ISBN: 9780521775267. \[[Preview](http://books.google.com/books?id=GkrYxL0QtpcC&pg=Pafrontcover) in Google Books\]
 
-Amadae, Sonja. _Rationalizing Capitalist Democracy: The Cold War Origins of Rational Choice Liberalism_. Chicago, IL: University of Chicago Press, 2003. ISBN: 9780226016535. \[{{% resource_link "ec5200cb-f200-42b3-8f1a-7f21486f6103" "Preview" %}} in Google Books\]
+Amadae, Sonja. _Rationalizing Capitalist Democracy: The Cold War Origins of Rational Choice Liberalism_. Chicago, IL: University of Chicago Press, 2003. ISBN: 9780226016535. \[[Preview](
+http://books.google.com/books?id=K3V1juIGhXYC&pg=Pafrontcover) in Google Books\]
 
-Light, Jennifer. _From Warfare to Welfare: Defense Intellectuals and Urban Problems in Cold War America_. Baltimore, MD: Johns Hopkins University Press, 2003. ISBN: 9780801874222. \[{{% resource_link "af95ffa3-65cf-480b-aa24-a614403d2a6b" "Preview" %}} in Google Books\]
+Light, Jennifer. _From Warfare to Welfare: Defense Intellectuals and Urban Problems in Cold War America_. Baltimore, MD: Johns Hopkins University Press, 2003. ISBN: 9780801874222. \[[Preview](http://books.google.com/books?id=Tc1fcJ8m_Q8C&pg=Pafrontcover) in Google Books\]
 
 Lemov, Rebecca. _World As Laboratory: Experiments with Mice, Mazes, and Men_. New York, NY: Hill and Wang, 2005. ISBN: 9780809074648.
 
-Reisch, George. _How the Cold War Transformed Philosophy of Science: To the Icy Slopes of Logic_. New York, NY: Cambridge University Press, 2005. ISBN: 9780521837972. \[{{% resource_link "6aab4f0e-b6b6-4dc7-98e4-61c6e463e165" "Preview" %}} in Google Books\]
+Reisch, George. _How the Cold War Transformed Philosophy of Science: To the Icy Slopes of Logic_. New York, NY: Cambridge University Press, 2005. ISBN: 9780521837972. \[[Preview](http://books.google.com/books?id=IzWU5Qu-bvYC&pg=PAfrontcover) in Google Books\]
 
 Osgood, Kenneth. _Total Cold War: Eisenhower's Secret Propaganda Battle at Home and Abroad_. Lawrence, KS: University Press of Kansas, 2006. ISBN: 9780700614455.
 
