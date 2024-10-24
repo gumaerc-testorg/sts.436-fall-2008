@@ -10,7 +10,7 @@ description: 'This 1961 photograph was used to illustrate a news story about "se
   the summers at Oak Ridge National Laboratory, where her father was a physical chemist.
   By 1961, she had married a chemical engineer, moved to California, and was working
   as a spectroscopist for Lockheed aircraft. (Image courtesy of the Smithsonian Institution.)'
-file: /courses/sts-436-cold-war-science-fall-2008/4b028fcf9bfb361525930be7a8870bf4_sts-436f08-th.jpg
+file: /ol-ocw-studio-app/courses/sts-436-cold-war-science-fall-2008/4b028fcf9bfb361525930be7a8870bf4_sts-436f08-th.jpg
 file_size: 7501
 file_type: image/jpeg
 image_metadata:
